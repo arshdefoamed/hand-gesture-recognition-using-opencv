@@ -14,7 +14,7 @@ By now you should have hand region alongwith the arm
 8. Apply steps 5-7 again on region of interest
 9. Find convex hull and convexity defects and count the number of fingers
 
-Following two applications have been developed (Videos are in the presentation file):
+Following two applications have been developed :
 1. Counting number of fingers shown by the hand
 2. Right swipe and left swipe detection
 
